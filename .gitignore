@@ -1,0 +1,12 @@
+# Never commit downloaded or converted audio/video (TED/YouTube terms, repo size)
+data/
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.webm
+*.part
+
+.venv/
+__pycache__/
+.env
